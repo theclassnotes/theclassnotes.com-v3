@@ -1,0 +1,132 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+"http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>Setup</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<link href="../forText.css" rel="stylesheet" type="text/css">
+<style type="text/css">
+<!--
+.style1 {
+	font-size: 12px;
+	color: #666666;
+	font-weight: bold;
+	line-height: 20px;
+}
+.style3 {font-size: 11px}
+.style4 {color: #FF3300}
+.style6 {color: #006633}
+.style7 {
+	font-size: 12px;
+	font-weight: bold;
+	color: #666666;
+}
+.style8 {
+	color: #006600;
+	font-weight: bold;
+}
+.style10 {font-size: 10px}
+-->
+</style>
+</head>
+
+<body>
+<table width="100%"  border="0" cellspacing="1" cellpadding="3">
+  <tr>
+    <td height="25" class="forTableBgLeft style1">AdesGuestbook</td>
+  </tr>
+  <tr>
+    <td height="25" class="forTableBgRight style3">Author: Ades Tynyshev<br>
+      Website: <a href="http://www.adesdesign.net" target="_blank">http://www.adesdesign.net</a><br>
+    Email: <a href="mailto:%20ades@adesdesign.net">ades@adesdesign.net</a> </td>
+  </tr>
+</table>
+<br>
+
+<table width="100%"  border="0" cellspacing="1" cellpadding="3">
+  <tr>
+    <td height="25" colspan="2" class="forTableBgLeft style7">Setup Instructions </td>
+  </tr>
+  <tr valign="top">
+    <td width="15" class="forTableBgLeft">1.</td>
+    <td class="forTableBgRight">Unzip the file </td>
+  </tr>
+  <tr valign="top">
+    <td width="15" class="forTableBgLeft">2.</td>
+    <td class="forTableBgRight"><p>Change the database connections in <a href="../Connections/config_db.php">config_db.php</a> in <span class="style4">Connections</span> folder </p>
+      <p><span class="style8">$hostname_config_db = &quot;localhost&quot;;</span> This is your hostname, most of the time it is localhost if different change it. <br>
+      <span class="style8">$database_config_db = &quot;adesbook&quot;; </span>This is database name.<br>
+      <span class="style8">$username_config_db = &quot;root&quot;;</span> Your username to login to your mySql database <br>
+      <span class="style8">$password_config_db = &quot;dfjdlfj&quot;; </span>Your password to login to your mySql database</p></td>
+  </tr>
+  <tr valign="top">
+    <td width="15" class="forTableBgLeft">3.</td>
+    <td class="forTableBgRight"><p>Change the username and password for admin login page inin <a href="../Connections/config_db.php">config_db.php</a> in <span class="style4">Connections</span> folder </p>
+      <p>Default username and password is <span class="style8">admin</span> for username and <span class="style8">admin</span> for password. This is a login information for you Administrator Area. You will be able to manage your guestbook records; delete and modify. </p></td>
+  </tr>
+  <tr valign="top">
+    <td class="forTableBgLeft">4.</td>
+    <td class="forTableBgRight"><p>Create a table called <span class="style4">adesbook</span> with the following code: </p>
+    <p> CREATE TABLE adesbook (<br>
+ID int(8) NOT NULL auto_increment,<br>
+firstName varchar(30) NOT NULL default '',<br>
+lastName varchar(30) NOT NULL default '',<br>
+country varchar(30) default NULL,<br>
+email varchar(30) NOT NULL default '',<br>
+website varchar(200) default NULL,<br>
+cmnt text NOT NULL,<br>
+date varchar(100) NOT NULL default '',<br>
+marker date default '0000-00-00',<br>
+time timestamp(14) NOT NULL,<br>
+PRIMARY KEY (ID)<br>
+) TYPE=MyISAM;</p>
+    <p><span class="style4">Note</span>: phpMyAdmin is a very useful tool to manage your databases, you can download it free online at 
+
+ 
+    <a href="http://www.phpmyadmin.net/">http://www.phpmyadmin.net</a></p></td>
+  </tr>
+  <tr valign="top">
+    <td class="forTableBgLeft">5.</td>
+    <td class="forTableBgRight">Change the email to your own in <a href="../send_mail.php" class="style4">send_mail.php</a> - notification of new message entry is sent to this email. </td>
+  </tr>
+  <tr valign="top">
+    <td class="forTableBgLeft">6.</td>
+    <td class="forTableBgRight">Upload all the files and folders to your server.</td>
+  </tr>
+  <tr valign="top">
+    <td class="forTableBgLeft">7.</td>
+    <td class="forTableBgRight">You are done!</td>
+  </tr>
+</table>
+<br>
+<table width="100%"  border="0" cellspacing="1" cellpadding="3">
+  <tr>
+    <td height="25" class="forTableBgLeft style1">Viewing your Guestbook </td>
+  </tr>
+  <tr>
+    <td height="25" class="forTableBgRight style10"><span class="style4">http://www.yourdomain.com/</span><span class="style6">AdesGuestbook/read.php</span> is the url for the Read Messages section </td>
+  </tr>
+  <tr>
+    <td height="25" class="forTableBgRight style10"><span class="style4">http://www.yourdomain.com/</span><span class="style6">AdesGuestbook/admin/index.php </span>is the url for the Admin Section </td>
+  </tr>
+</table>
+<br>
+<table width="100%"  border="0" cellspacing="1" cellpadding="3">
+  <tr>
+    <td height="25" class="forTableBgLeft style1">Customizing your Guestbook</td>
+  </tr>
+  <tr>
+    <td height="25" class="forTableBgRight style10">Change<a href="../forText.css"> forText.css</a> to modify the look of the Guestbook to suit your website.</td>
+  </tr>
+  <tr>
+    <td height="25" class="forTableBgRight style10">Change the <a href="../header.php">header.php</a> and <a href="../footer.php">footer.php</a> to encapsulate the Guestbook inside your website. </td>
+  </tr>
+</table>
+<br>
+<table width="100%"  border="0" cellpadding="3" cellspacing="1">
+  <tr>
+    <td height="25" class="forTableBgRight  style3"><div align="center">All Rights Reserved. 2007. Ades Design </div></td>
+  </tr>
+</table>
+</body>
+</html>

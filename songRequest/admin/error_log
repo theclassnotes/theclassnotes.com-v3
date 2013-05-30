@@ -1,0 +1,1 @@
+[28-Mar-2007 21:00:13] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/jusupov/public_html/gbook/admin/adminLogOut.php:21) in /home/jusupov/public_html/gbook/admin/adminOnly.php on line 2

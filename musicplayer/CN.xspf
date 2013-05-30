@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<playlist version="0" xmlns = "http://xspf.org/ns/0/">
+  <trackList>
+  
+   <track>
+    <location>../sounds/dits.mp3</location>
+    <annotation>The Class Notes - Dancing in the Streets (Sample from Black Tie Optional)</annotation>
+   </track>
+   
+   <track>
+    <location>../sounds/someday.mp3</location>
+    <annotation>The Class Notes - Someday (Sample from Black Tie Optional)</annotation>
+   </track>
+   
+   <track>
+    <location>../sounds/bup.mp3</location>
+    <annotation>The Class Notes - Bottle It Up (Sample from Black Tie Optional)</annotation>
+   </track>
+   
+   <track>
+    <location>../sounds/lucky.mp3</location>
+    <annotation>The Class Notes - Lucky (Sample from Black Tie Optional)</annotation>
+   </track>
+   
+   <track>
+    <location>../sounds/shine.mp3</location>
+    <annotation>The Class Notes - Shine (Sample from Black Tie Optional)</annotation>
+   </track>
+   
+   <track>
+    <location>../sounds/hometown.mp3</location>
+    <annotation>The Class Notes - Hometown Glory (Sample from Black Tie Optional)</annotation>
+   </track>
+  
+   <track>
+    <location>../sounds/whatchasay.mp3</location>
+    <annotation>The Class Notes - Whatcha Say (Sample from Black Tie Optional)</annotation>
+   </track>
+   <track>
+   
+  </trackList>
+</playlist>

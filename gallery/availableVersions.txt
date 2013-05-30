@@ -1,0 +1,4 @@
+stable=http://prdownloads.sourceforge.net/gallery/gallery-2.2.3-full
+nightly=http://www.rabinovich.org/G2/gallery-nightly
+stable=gallery-2.2.3-full
+nightly=gallery-nightly

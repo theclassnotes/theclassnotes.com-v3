@@ -1,0 +1,344 @@
+/* standard elements */
+* {
+	margin: 0;
+	padding: 0;
+}
+a {color: #7F6300;}
+a:hover {color: #FFFFFF;}
+body {
+	background: #740000 url(./img/bg.png) repeat-y center top;
+	color: #CCBCBC;
+	font: normal 62.5% "Lucida Sans Unicode",sans-serif;
+}
+input {
+	color: #555;
+	font: normal 1.1em "Lucida Sans Unicode",sans-serif;
+}
+p,cite,code,ul {
+	font-size: 1.2em;
+	padding-bottom: 1.2em;
+}
+
+h1 {font-size: 1.4em;}
+blockquote {
+	background: #FFF;
+	border-bottom: 1px solid #EEE;
+	border-top: 1px solid #EEE;
+	color: #333;
+	display: block;
+	font-size: 0.9em;
+	margin-bottom: 1.2em;
+	padding: 6px 12px;
+}
+blockquote p {padding: 3px 0;}
+h1,h2,h3 {color: #654;}
+
+/* misc */
+.clearer {clear: both;}
+
+/* structure */
+.container {
+	background: url(./img/bgcontainer.gif) repeat-y;
+	margin: 0 auto;
+	width: 952px;
+}
+
+/* top */
+.top {
+	background: #000000;
+	color: #CCBCBC;
+	font: normal 1.4em Arial, sans-serif;
+	height: 20px;
+	margin: 0 auto;
+	width: 880px;
+}
+
+.top span {padding-left: 24px;}
+
+/* header */
+.header {
+	background: #000000 url(./img/tLogo.gif) no-repeat;
+	text-align: right;
+	border-bottom: 1px solid #FFF;
+	height: 180px;
+	margin: 0 auto;
+	width: 880px;
+}
+
+/* item */
+.item {clear: both;}
+.item .date {
+	background: #AC0000;
+	color: #000000;
+	float: left;
+	height: 48px;
+	text-align: center;
+	width: 35px;
+}
+.item .date span {font: normal 1.4em serif;}
+
+.item .CNbullet {
+	background: #AC0000 url(./img/CNbullet.gif) no-repeat;
+	color: #000000;
+	float: left;
+	height: 35px;
+	text-align: center;
+	width: 35px;
+}
+
+.item .content {
+	float: left;
+	width: 670px;
+}
+.item h1 {
+	background: #AC0000;
+	color: #CCBCBC;
+	line-height: 32px;
+	padding-left: 16px;
+	border-left: 1px dotted #000;
+}
+.item .body {
+  background: #000000;
+	padding: 12px 18px;
+}
+.item ul {
+  padding-left: 16px;
+}
+
+/* main */
+.main {float: left;}
+
+/* navigation */
+#navigation {
+	float: left;
+	width: 210px;
+}
+#navigation h1 {
+	background: #AC0000;
+	color: #FFF;
+	font-size: 1.3em;
+	margin-left: 1px;
+	line-height: 32px;
+	padding-left: 12px;
+}
+#navigation ul {margin: 0; padding: 0;}
+#navigation li {
+  border-left: 1px solid #FFF5CF;
+	border-bottom: 1px solid #FFF5CF;
+	list-style: none;
+}
+#navigation li a {
+	background: #000000;	
+	color: #7F6300;
+	display: block;
+	padding: 8px 4px 8px 12px;
+	text-decoration: none;
+}
+#navigation li a:hover {
+	background: transparent;
+	color: #FFFFFF;
+}
+
+/* events */
+#events {
+	float: left;
+	width: 210px;
+}
+#events h1 {
+	background: #AC0000;
+	color: #FFF;
+	font-size: 1.3em;
+	line-height: 32px;
+	border-left: 1px solid #FFFFFF;
+	padding-left: 12px;
+}
+
+#events ul {margin: 0; padding: 0;}
+
+#events li {
+	background: #000000;
+	border-bottom: 1px dotted #FFF5CF;
+	border-left: 1px solid #FFFFFF;
+	padding-left: 1em;
+	padding-top: .5em;
+	padding-bottom: .5em;
+	list-style: none;
+}
+/* footer */
+.footer {
+	background: url(./img/bgfooter.gif) repeat-x;
+	color: #FFFFFF;
+	font-size: 1.1em;
+	line-height: 39px;
+	margin: 0 auto;
+	text-align: right;
+	width: 882px;
+}
+.footer a {color: #FFF;}
+.footer a:hover {color: #FAFCB0;}
+
+/* repertoire table */
+.repertoire {
+  background: transparent;
+	width: 100%;
+	text-align: left;
+	padding: 0;
+	margin: 0 auto;
+	font-size: 1.2em;
+}
+
+.repertoire th {
+  font-style: bold;
+  padding-left: 1.4em;
+}
+
+.repertoire td {
+	padding-top: 5px;
+	padding-left: 1.4em;
+}
+
+/* current notes table*/
+.notes {
+  background: transparent;
+	width: 100%;
+	text-align: center;
+	margin: 0 auto;
+	margin-top: 25px;
+}
+
+.notes td {
+  width: 33.3%;
+}
+
+.notes td.picture {
+  
+}
+
+.notes td.name {
+  color: #FFFFFF;
+	font-size: 1.1em;
+	font-style: bold;
+}
+
+.notes td.part {
+  font-size: 1.1em;
+}
+
+.notes td.position {
+  font-style: italic;
+}
+
+/* alumni notes table */
+.alumni {
+  background: transparent;
+	width: 100%;
+	text-align: center;
+	margin: 0 auto;
+	margin-top: 25px;
+}
+
+.alumni td.email {
+  width: 33.3%;
+}
+
+.alumni td.pics {
+	width: 66.7%;
+}
+
+.alumniEmail {
+	width: 100%;
+	text-align: left;
+	margin: 0 auto;
+}
+
+.alumniEmail a {color:#FFFFFF}
+.alumniEmail a:hover {color: #AC0000}
+
+.alumniPics {
+  width: 100%;
+}
+
+.alumniPics img {
+	border: 1px solid #FFFFFF
+}
+
+/* recordings */
+
+/* small albums */
+#lArrow {
+  text-align: left;
+	padding-bottom: 10px;
+}
+
+#mOver {
+  text-align: center;
+	padding-bottom: 10px;
+}
+
+#rArrow {
+  text-align: right;
+	padding-bottom: 10px;
+}
+
+#small-albums {
+  width: 490px;
+	overflow: hidden;
+}
+
+#small-albums td {
+	padding-left: 10px;
+	padding-right: 10px;
+	text-align: center;
+}
+
+.albumname {
+  color: #FAFAFA;
+}
+
+.albumCover{
+  padding-top: 20px;
+  text-align: center;
+}
+
+.trackList {
+  width: 100%;
+}
+
+.trackList td{
+  width: 50%;
+}
+
+.leftTrack{
+  width: 100%;
+	margin-top: 10px;
+}
+
+.rightTrack{
+  width: 100%;
+	margin-top: 10px;
+}
+
+.leftTrack td{
+  width: 100%;
+  text-align: right;
+	padding-right: 10px;
+}
+
+.rightTrack td{
+  width: 100%;
+  text-align: left;
+	padding-left: 10px;
+}
+
+.trackTitle {
+  color: #FAFAFA;
+}
+
+.orderPrice {
+  width: 100%;
+	font-size: 11px;;
+	color: lime;
+	padding-top: 20px;
+	text-align: center;
+}
+

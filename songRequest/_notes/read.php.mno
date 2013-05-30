@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rsRead" value="name:ID;datatype:int,name:firstName;datatype:string,name:lastName;datatype:string,name:country;datatype:string,name:email;datatype:string,name:website;datatype:string,name:cmnt;datatype:blob,name:date;datatype:string,name:marker;datatype:date,name:time;datatype:timestamp" />
+</info>

@@ -5,8 +5,8 @@
 <head>
 <meta http-equiv="content-type" content="text/html; charset=iso-8859-1"/>
 <meta name="description" content="description"/>
-<meta name="keywords" content="keywords"/> 
-<meta name="author" content="author"/> 
+<meta name="keywords" content="keywords"/>
+<meta name="author" content="author"/>
 <link rel="stylesheet" type="text/css" href="template/default.css" media="screen"/>
 <title>The Class Notes - Cornell's Original Co-Ed A Cappella Group</title>
 </head>
@@ -17,20 +17,136 @@
 
 
 	<?php include("./template/header.php") ?>
-	
+
 	<div class="top">
-		<span>Cornell's Original Co-Ed A Cappella Group</span>		
+		<span>Cornell's Original Co-Ed A Cappella Group</span>
 	</div>
-	
+
 	<div class="main">
+        <div class="item">
+                <div class="date">
+                    <div>2013</div>
+                    <span>Sep 09</span>
+                </div>
+
+                <div class="content">
+                    <h1>New Notes!!</h1>
+                    <div class="body">
+                        We are SO excited to welcome the following new Notes into the Class Notes family!
+                        <ul>
+                            <li>Melissa Romanovich</li>
+                            <li>Manuel Calderon Tamayo</li>
+                            <li>Stef Wu</li>
+                            <li>Nishat Yasmin</li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+
+<div class="item">
+        <div class="date">
+            <div>2013</div>
+            <span>Sep 06</span>
+        </div>
+
+        <div class="content">
+            <h1>Callback List Fall 2013</h1>
+            <div class="body">
+                <p>A huge thank you goes out to everyone who auditioned for us. There was so much fantastic talent &mdash; paring down a list of such ability was incredibly difficult.</p></p>
+
+<p>Congratulations to the following callbackees:</p>
+
+<p><strong>Sopranos</strong></p>
+
+<ul>
+<li>Anna Yesypenko</li>
+<li>Emma Keteltas</li>
+<li>Sammie Wilhelm</li>
+<li>Leah Dewitt</li>
+</ul>
+
+<p><strong>Mezzos</strong></p>
+
+<ul>
+<li>Melissa Romanovich</li>
+<li>Sarah Miller</li>
+<li>Stef Wu</li>
+<li>Michelle Fleurantin</li>
+<li>Nishat Yamin</li>
+<li>Anna Cone</li>
+</ul>
+
+<p><strong>Altos</strong></p>
+
+<ul>
+<li>Julie Kohn</li>
+<li>Anita Alur</li>
+</ul>
+
+<p><strong>Tenors</strong></p>
+
+<ul>
+<li>Manuel Calderon</li>
+<li>Zachary Zimmerman</li>
+<li>Grant Behnke</li>
+<li>Arun Chakravorty</li>
+</ul>
+
+<p><strong>Baritones</strong></p>
+
+<ul>
+<li>Garrett Heller</li>
+</ul>
+
+<p><strong>Bass</strong></p>
+
+<ul>
+<li>Conner Parkinson</li>
+<li>Colton Harvey</li>
+<li>Sebin Lee</li>
+</ul>
+
+<p>If you have any questions (when to be where, etc.), or if your name is on this list but you did not receive an email today, please email Catherine Rieflin, at <a href="mailto:president@theclassnotes.com">president@theclassnotes.com</a>. We look forward to hearing you on Saturday!</p>
+            </div>
+        </div>
+    </div>
+
+    <div class="item">
+        <div class="date">
+            <div>2013</div>
+            <span>Aug 03</span>
+        </div>
+
+        <div class="content">
+            <h1>Fall Auditions 2013</h1>
+            <div class="body">
+                <p>New semester, new Notes! The Class Notes are holding open auditions for all voice parts and class years at these times and locations:</p>
+                <p>
+                    Monday, Sep. 02: 7 - 9 pm in Lincoln Hall, room B08<br />
+                    Tuesday, Sep. 03: 8 - 10 pm in RPCC, room 222<br />
+                    Thursday, Sep. 05: 7:45 - 10pm in Lincoln Hall, room 124
+                </p>
+                <p>For the audition, please prepare a 30 second solo that showcases your voice. The rest of the audition will consist of a quick bit of range testing and pitch matching.</p>
+                <p>Please e-mail us with any questions! We look forward to hearing from you!</p>
+                <p>
+                    Jeffrey Schwartz (Musical Director) - <a href="mailto:md@theclassnotes.com">md@theclassnotes.com</a><br/>
+                    Chris Donaldson (General Manager) - <a href="mailto:gm@theclassnotes.com">gm@theclassnotes.com</a>
+                </p>
+                <p>
+                    <a href="http://www.facebook.com/theclassnotes">www.facebook.com/theclassnotes</a><br />
+                    <a href="http://www.youtube.com/cornellclassnotes">www.youtube.com/cornellclassnotes</a>
+                </p>
+            </div>
+        </div>
+    </div>
 
     <div class="item">
         <div class="date">
             <div>2013</div>
             <span>Jan 20</span>
         </div>
-			
-        <div class="content">			
+
+        <div class="content">
             <h1>Spring Auditons 2013!!</h1>
             <div class="body">
                 <p>New semester, new Notes! The Class Notes are holding open auditions for all voice parts and class years at these times and locations:</p>
@@ -57,11 +173,11 @@
                 <div>2012</div>
                 <span>Oct 31</span>
             </div>
-			
+
             <div class="content">
-			
+
                 <h1>CLASSIFIED 2012</h1>
-			
+
                 <div class="body">
 					<p>
                 	Our Fall concert, CLASSIFIED 2012, is quickly approaching! On NOV. 9, 2012, have your socks knocked off by the suave sound of the classiest Cornellians on campus: THE CLASS NOTES! Tickets are $7 in advance and $10 at the door &mdash; but buy quickly! Tickets to this once-in-a-lifetime event are selling out rapidly. Email gm@theclassnotes.com for tickets, talk to your favourite Class Note, or <a href="http://campusamp.com/classified2012" target="_blank">grab the advance ticket from the comfort of your own home on CampusAmp</a>!
@@ -75,11 +191,11 @@
                 <div>2012</div>
                 <span>Oct 31</span>
             </div>
-			
+
             <div class="content">
-			
+
                 <h1>FULL DISCLOSURE</h1>
-			
+
                 <div class="body">
 					<p>
 						<img src="http://www.theclassnotes.com/images/full_disclosure.png" alt="Full Disclosure Cover" width="610">
@@ -113,11 +229,11 @@
                 <div>2012</div>
                 <span>Sept 3</span>
             </div>
-			
+
             <div class="content">
-			
+
                 <h1>FALL 2012 NEWBIES!!</h1>
-			
+
                 <div class="body">
 					<p>
                 	We are extremely excited to welcome six wonderful newbies into the group! Many congratulations to our incredibly talented newbie class: Ethan Fuld '16, Joe Neumeyer '16, Katie Rosenberger '16, Dan Rosenthal '15, Jacqueline Wagner '15, Emily Woisin '16! We're excited to start making music with y'all!
@@ -131,11 +247,11 @@
                 <div>2012</div>
                 <span>Aug 3</span>
             </div>
-			
+
             <div class="content">
-			
+
                 <h1>Fall Auditions!</h1>
-			
+
                 <div class="body">
                     <img src="http://www.theclassnotes.com/images/set-fire-to-the-rain.jpeg" alt="Set Fire to the Rain" width="300" style="float: right; margin: 5px 5px 5px 10px;">
                     <p>
@@ -151,17 +267,17 @@
                 </div>
             </div>
         </div>
-        
+
 		<div class="item">
 			<div class="date">
 				<div>2012</div>
 				<span>Aug 1</span>
 			</div>
-			
+
 			<div class="content">
-			
+
 			<h1>Voices Only 2012</h1>
-			
+
 				<div class="body">
 				<img src="http://www.voicesonlyacappella.com/images/VO2012One.jpg" alt="Voices Only 2012 Volume One" width="200" height="200" style="float: right; margin: 5px 5px 5px 10px;">
 				<p>
@@ -171,19 +287,19 @@
 				</div>
 			</div>
 		</div>
-        
+
 
 		<div class="item">
-		
+
 			<div class="date">
 				<div>2012</div>
 				<span>Apr 18</span>
 			</div>
-			
+
 			<div class="content">
-			
+
 			<h1>Cuttin' Class 2012</h1>
-			
+
 				<div class="body">
 
 				<p>
@@ -192,73 +308,73 @@
 				8:00pm Call Auditorium, Kennedy Hall
 				</font>
 				</p>
-				
+
 				<img src="./poster/julianPoster.jpg" alt="" style="float: left; margin: 4px;">
 
 				<p>
-				Tickets are $7 in advance or $10 at the door. Buy them from any Class Note 
-				or email gm@theclassnotes.com to reserve a ticket 
+				Tickets are $7 in advance or $10 at the door. Buy them from any Class Note
+				or email gm@theclassnotes.com to reserve a ticket
 				on the will call list.
 				</p>
 
 				<p>
 				And don't forget to join the <a href="http://www.facebook.com/events/143815665747891/">Facebook event</a>!
 				</p>
-				
+
 				<br>
-				</div>
-			</div>
-		</div>
-		
-		<div class="item">
-		
-			<div class="date">
-				<div>2012</div>
-				<span>Mar 17</span>
-			</div>
-			
-			<div class="content">
-			
-			<h1>2012 ICCA Mid-Atlantic Semifinals!</h1>
-			
-				<div class="body">
-				<img src="./poster/classNotesAtRutgers.jpg" alt="" style="float: right; margin: 4px;">
-				<p>
-				<br>
-					We had a great time at ICCA Semifinals at Rutgers this past weekend.
-					Many thanks to Mark McCarthy for helping us out with hotel rooms, 
-					our host group Deep Treble for getting us where we needed on time, 
-					the Gunaseharan family for hosting us overnight and treating us to
-					a delicious breakfast, and obviously our extremely dedicated alumni
-					for coming out to support us. Congratulations to the three placing 
-					groups, and best of luck to the Pennharmonics as they travel to compete
-					in the finals in NYC on April 28th.
-				</p>
-				
 				</div>
 			</div>
 		</div>
 
 		<div class="item">
-		
+
+			<div class="date">
+				<div>2012</div>
+				<span>Mar 17</span>
+			</div>
+
+			<div class="content">
+
+			<h1>2012 ICCA Mid-Atlantic Semifinals!</h1>
+
+				<div class="body">
+				<img src="./poster/classNotesAtRutgers.jpg" alt="" style="float: right; margin: 4px;">
+				<p>
+				<br>
+					We had a great time at ICCA Semifinals at Rutgers this past weekend.
+					Many thanks to Mark McCarthy for helping us out with hotel rooms,
+					our host group Deep Treble for getting us where we needed on time,
+					the Gunaseharan family for hosting us overnight and treating us to
+					a delicious breakfast, and obviously our extremely dedicated alumni
+					for coming out to support us. Congratulations to the three placing
+					groups, and best of luck to the Pennharmonics as they travel to compete
+					in the finals in NYC on April 28th.
+				</p>
+
+				</div>
+			</div>
+		</div>
+
+		<div class="item">
+
 			<div class="date">
 				<div>2012</div>
 				<span>Feb 25</span>
 			</div>
-			
+
 			<div class="content">
-			
+
 			<h1>The Class Notes Visit RIT!</h1>
-			
+
 				<div class="body">
 				<p>
 				<br>
-					Last night the Class Notes were incredibly honored to perform as a guest group at 
+					Last night the Class Notes were incredibly honored to perform as a guest group at
 					the spring show of RIT's talented <a href = 'http://ritpop.com/index.php'> Proof
 					of Purchase</a>! Check out the videos below for part of our set.
 					<br>
 				</p>
-				
+
 				<ul>
 					<li><a href = 'http://www.youtube.com/watch?v=aABMmGZs59A'>Set Fire to the Rain</a></li>
 					<li><a href = 'http://www.youtube.com/watch?v=lzXl0xy-m4c'>Best Thing I Never Had</a></li>
@@ -266,87 +382,87 @@
 				</div>
 			</div>
 		</div>
-		
+
 		<div class="item">
-		
+
 			<div class="date">
 				<div>2012</div>
 				<span>Feb 20</span>
 			</div>
-			
+
 			<div class="content">
-			
+
 			<h1>ICCAs 2012 Quarterfinal Victory!</h1>
-			
+
 				<div class="body">
 				<p>
 				<br>
 					We are incredibly pleased to announce that the Cornell Class Notes have won 1st place in the 2012
 					ICCA Mid-Atlantic Quarterfinals at Cornell University! The energy in Call Auditorium last night was
 					electric, and we'd like to thank everyone who came out to support us.
-					
-					In addition to the rush of placing 1st, we'd also like to point out the individuals who also won some 
+
+					In addition to the rush of placing 1st, we'd also like to point out the individuals who also won some
 					very special awards.
-					
+
 					<ul>
 						<li>Maya Gunaseharan: Best Soloist</li>
 						<li>Alex Martino: Best Vocal Percussion</li>
 					</ul>
-					
+
 					<br><br>
-					We feel so priveledged to have been selected to move on from a pool of truly phenomenal talent, and 
+					We feel so priveledged to have been selected to move on from a pool of truly phenomenal talent, and
 					hope to represent Cornell well at the ICCA Mid-Atlantic Semi-Finals at Rutgers University.
 					<br><br>
 				</p>
 				</div>
 			</div>
 		</div>
-	
-	
+
+
 		<div class="item">
-			
+
 			<div class="date">
 				<div>2012</div>
 				<span>Feb 5</span>
 			</div>
-				
+
 				<div class="content">
-				
+
 				<h1>New Note!</h1>
-				
+
 					<div class="body">
 					<img src="./current/jeffNewb.png" alt="" style="float: right; margin: 4px;">
 					<p>
 						We are thrilled to announce the addition of one new Class Note! Congratulations, newb!
 					</p>
-					
+
 					<ul>
 						<li>Jeffrey Schwartz '14</li>
 					</ul>
 				</div>
 			</div>
 		</div>
-	
-	
+
+
 		<div class="item">
-		
+
 			<div class="date">
 				<div>2011</div>
 				<span>Oct 24</span>
 			</div>
-		
+
 			<div class="content">
-		
+
 			<h1>Classified '11!</h1>
-			
+
 				<div class="body">
-					
+
 					<img src="./poster/starwars.jpg" alt="" style="float: right; margin: 4px;"/>
-					
+
 					<p>
 					<font size = "6">Classified 2011!</font>
 					</p>
-					
+
 					<p>
 						This year's Classified is almost here! The Class Notes have been traversing the known universe preparing some of the best co-ed a cappella music for you!
 						So check us out for an evening full of music, laughs, and evil overlords from the far reaches of space.
@@ -357,50 +473,50 @@
 						<li>Saturday, October 29th, 8:00pm</li>
 						<li>$6 in advance at Willard Straight Hall, $10 at the door</li>
 					</ul>
-					
-					
-					
+
+
+
 				</div>
 			</div>
 		</div>
-		
+
 		<div class="item">
 			<div class="date">
 				<div>2011</div>
 				<span>Sep 6</span>
-				
+
 			</div>
-			
+
 			<div class="content">
 
 				<h1>Newbies!</h1>
 
 				<div class="body">
 					<img src="./current/newbs.JPG" alt="" style="float: right; margin: 4px;"/>
-				
+
 				    <p>
 						The Class Notes are incredibly pleased to welcome <b>Catherine Rieflin '15, Jessica Li '15</b> and <b>Parker Moore '14</b> into our family!
 						Contratulations to all of you! We can't wait to start making music with you all.
 					</p>
-					
+
 				</div>
 			</div>
 		</div>
-		
+
 		<div class = "item">
 			<div class = "date">
 				<div>2011</div>
 				<span>August 19</span>
 			</div>
-			
+
 			<div class="content">
-			
+
 			<h1>O-Week Archsings!</h1>
-			
+
 				<div class = "body">
-				
+
 				<p>
-				Welcome (back) to Cornell! The Class Notes have a fantastic five archsings coming up over the next week, so be sure to stop by and check out Cornell's Original 
+				Welcome (back) to Cornell! The Class Notes have a fantastic five archsings coming up over the next week, so be sure to stop by and check out Cornell's Original
 				Co-ed A Cappella group.
 				</p>
 				<ul>
@@ -412,21 +528,21 @@
 				</ul>
 				<br>
 				<p>
-				Auditions will be the first week of classes (week of August 28th), so check back here later 
+				Auditions will be the first week of classes (week of August 28th), so check back here later
 				on for more information.
 				</p>
 				</div>
 			</div>
 		</div>
-			
+
 		<div class="item">
 
 			<div class="date">
 				<div>2011</div>
 				<span>August 15</span>
-				
+
 			</div>
-			
+
 			<div class="content">
 
 				<h1>Singles on iTunes!</h1>
@@ -444,47 +560,47 @@
 						<li>Breakeven - 8/26</li>
 					</ul>
 
-					
+
 				</div>
 			</div>
 		</div>
-		
+
 		<div class="item">
-		
+
 			<div class="date">
 				<div>2011</div>
 				<span>April 25</span>
 			</div>
-			
+
 			<div class="content">
-			
+
 			<h1>New Notes!</h1>
-			
+
 				<div class="body">
 
 				<p>
 				We are thrilled to announce that Mitchell Davis is now a member of The Class Notes!
 				</p>
-				
+
 				<br>
 				</div>
 			</div>
 		</div>
-	
-	
-	
-	
+
+
+
+
 					<div class="item">
-		
+
 			<div class="date">
 				<div>2011</div>
 				<span>March 13</span>
 			</div>
-			
+
 			<div class="content">
-			
+
 			<h1>Cuttin' Class 2011</h1>
-			
+
 				<div class="body">
 
 				<p>
@@ -493,54 +609,54 @@
 				7:30pm Call Auditorium
 				</font>
 				</p>
-				
+
 				<img src="./poster/cc27.png" alt="" style="float: left; margin: 4px;">
-				
+
 				<br>
 				</div>
 			</div>
 		</div>
-	
-	
+
+
 				<div class="item">
-		
+
 			<div class="date">
 				<div>2010</div>
 				<span>Sept 5</span>
 			</div>
-			
+
 			<div class="content">
-			
+
 			<h1>New Notes!</h1>
-			
+
 				<div class="body">
 
 				<p>
 				We are thrilled to announce that there are 5 new members in the Class Notes! <b>Chris Donaldson, Alex Griffen, 			Maya 			Gunaseharan, Ha Lim Lee,</b> and <b>Lacey Steinel</b> - we can't wait to endlessly jam out tunes and harmonize with you all. Congratulations!
 				</p>
-			
+
 				<br>
 				</div>
 			</div>
 		</div>
 
-	
+
 			<div class="item">
-		
+
 			<div class="date">
 				<div>2010</div>
 				<span>Aug 25</span>
 			</div>
-			
+
 			<div class="content">
-			
+
 			<h1>Auditions</h1>
-			
+
 				<div class="body">
 
 				<p>
 				<br>
-					Auditions time is upon us! Auditions for the Class Notes will be held during this week at the following times 
+					Auditions time is upon us! Auditions for the Class Notes will be held during this week at the following times
 					and locations. For more information about auditions, visit the <a href="auditions.php">auditions</a> page.
 				</p>
 				<ul>
@@ -548,34 +664,34 @@
 					<li> Wednesday September 1, 8:00-10:00 PM Lincoln 107</li>
 					<li> Thursday September 2, 8:00-10:00 PM Lincoln 107</li>
 				</ul>
-				
+
 				<br>
 				</div>
 			</div>
 		</div>
-	
-	
-	
-	
+
+
+
+
 		<div class="item">
-		
+
 			<div class="date">
 				<div>2010</div>
 				<span>July 13</span>
 			</div>
-			
+
 			<div class="content">
-			
+
 			<h1>Orientation Week</h1>
-			
+
 				<div class="body">
 
 				<p>
 				<br>
-					August will be here before you know it, which means it's almost time for another 
-					semester of fantastic Cornell a cappella! The Class Notes will be performing throughout 
+					August will be here before you know it, which means it's almost time for another
+					semester of fantastic Cornell a cappella! The Class Notes will be performing throughout
 					orientation week, so come out and see what makes a cappella singing so much fun!
-					
+
 
 				</p>
 				<ul>
@@ -585,29 +701,29 @@
 					<li> Thursday August 26th, 7:30-8:30pm : Baker Flag Pole with the Chai Notes</li>
 					<li> Friday August 27th, 7:00-8:00pm : Balch Arch with the Chordials</li>
 				</ul>
-				
+
 				<br>
 				<p>
-				Auditions will be the first week of classes (week of August 29), so check back here later 
+				Auditions will be the first week of classes (week of August 29), so check back here later
 				on for more information.
 				</p>
 				</div>
 			</div>
 		</div>
-		
-		
-		
+
+
+
 			<div class="item">
-		
+
 			<div class="date">
 				<div>2010</div>
 				<span>April 15</span>
 			</div>
-			
+
 			<div class="content">
-			
+
 			<h1>New CD - <i>Black Tie Optional</i></h1>
-			
+
 				<div class="body">
 				<img src="./albums/large/BTO_new.jpg" alt="" style="float: right; margin: 4px;">
 				<p>
@@ -616,12 +732,12 @@
 					will be arriving just in time for Cuttin' Class '10 on Friday, April 23 (see below).
 				</p>
 				<br>
-				
+
 				<p>
 					But wait, it gets better: order a concert ticket and our new CD together at a discounted price to
 					enjoy fantastic a cappella music wherever you go!
 				</p>
-				
+
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post">
 <input type="hidden" name="cmd" value="_s-xclick">
 <input type="hidden" name="hosted_button_id" value="HZRC7VBLTBRMU">
@@ -639,19 +755,19 @@
 				</div>
 			</div>
 		</div>
-	
-	
+
+
 	<div class="item">
-		
+
 			<div class="date">
 				<div>2010</div>
 				<span>April 3</span>
 			</div>
-			
+
 			<div class="content">
-			
+
 			<h1>Cuttin' Class XXVI</h1>
-			
+
 				<div class="body">
 				<object width="320" height="192"><param name="movie" value="http://www.youtube.com/v/Vgr0exOOonU&hl=en_US&fs=1&rel=0"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/Vgr0exOOonU&hl=en_US&fs=1&rel=0" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="320" height="192"></embed></object>
 				<img src="./poster/cuttinclass26.jpg" alt="" style="float: right; margin: 4px;">
@@ -660,7 +776,7 @@
 					It's the group that pioneered the co-ed a cappella landscape and became a cultural
 					phenomenon - the Class Notes are back with an all-new repertoire!
 					<br><br><br>
-					In three weeks, share the love - get hooked on the feeling - and get ready to 
+					In three weeks, share the love - get hooked on the feeling - and get ready to
 					cheer for the underdogs! Cuttin' Class XXVI is April 23; we hope to see you there!
 				</p>
 				<ul>
@@ -672,13 +788,13 @@
 				</div>
 			</div>
 		</div>
-	
+
 
 	</div>
-	
+
 	<?php include("./template/navigation.php") ?>
 
-	
+
 	<div class="clearer"><span></span></div>
 
-	<div class="footer">&copy; 2010 <a h
+	<div class="footer">&copy; 2010 The Class Notes</div>
